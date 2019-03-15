@@ -1,0 +1,8 @@
+Makes the Truffle sell the Truffle Worm
+Makes the Travelling Merchant able to sell the Fisherman's Pocket Guide
+Adds recipes for Ice Skates, Water Walking Boots, Sextant, and Weather Radio
+
+Changelog:
+0.2:
+	Added recipe for Water Walking Boots
+	Adjusted Ice Skates, and Weather Radio Recipes
