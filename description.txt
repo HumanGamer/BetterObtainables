@@ -6,3 +6,5 @@ Changelog:
 0.2:
 	Added recipe for Water Walking Boots
 	Adjusted Ice Skates, and Weather Radio Recipes
+0.2.1:
+	Added Icon and Homepage

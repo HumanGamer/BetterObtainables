@@ -1,3 +1,4 @@
 author = HumanGamer
-version = 0.2
+version = 0.2.1
 displayName = Better Obtainables
+homepage = https://github.com/HumanGamer/BetterObtainables
